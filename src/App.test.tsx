@@ -4,14 +4,14 @@ import App from './App';
 import { render } from '@testing-library/react';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import { Provider } from 'react-redux'
+
+import store from './store'
+
 const theme = createTheme({
   palette: {
     mode: 'light', // or 'dark'
   },
 });
-import store from './store'
-
-
 
 test('renders without crashing', () => {
   render(
