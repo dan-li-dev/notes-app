@@ -1,0 +1,37 @@
+Use React Redux - DONE
+Use Jest - DONE
+Use Selenium/Playwright - DONE
+Create serverless functions to a Sprint Boot application - DONE
+Modify Babel/Webpack 
+Use Git Actions to deploy
+
+
+Design, develop, and maintain Dynatrace Apps based on our own design system Strato using React and TypeScript.  
+
+Contribute serverless functions in TypeScript and RESTful endpoints to a Spring Boot application. 
+
+Optimize and enhance our applications in collaboration with our stakeholders.  
+
+Collaborate with an agile team of engineers to deliver high-quality software solutions.   
+
+Mentor and support colleagues, fostering an approachable and supportive environment
+
+Degree in Software Engineering or equivalent practical experience  
+
+In-depth understanding of JavaScript and TypeScript design patterns, data structures, and web architecture, with the ability to apply these concepts to create practical and effective solutions.  
+
+Hands-on experience with React or a comparable framework.  
+
+Experience with popular React state management libraries, such as Redux, is a plus.  
+
+Proficiency with testing frameworks like Jest and Playwright.  
+
+Prior experience with Java is not required, an interest in learning it is sufficient. 
+
+Comprehensive knowledge of server-client communication and browsers.  
+
+Solid understanding of the Node ecosystem, including npm, Babel, and Webpack.  
+
+Familiarity with CI/CD processes and tools like Git.  
+
+Supportive team player who fosters a positive and inclusive work environment.  

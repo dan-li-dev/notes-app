@@ -1,0 +1,6 @@
+{
+    "devCommand": "node scripts/start.js",
+    "rewrites": [
+      { "source": "/api/(.*)", "destination": "/api/$1.ts" }
+    ]
+  }
